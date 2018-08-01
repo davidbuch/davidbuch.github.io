@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Model Uncertainty
+title: David Buch
 email: davidbuch42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website relating my professional activities and individual interests. 
   Blog posts will discuss Statistics, Medicine, Mathematics, Computing, or Current Events.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: "100013885485344"
 linkedin_username: davidbuch-wvu18
 github_username: davidbuch
 
