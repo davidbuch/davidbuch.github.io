@@ -1,0 +1,28 @@
+- title: "About"
+  href: "/"
+
+- title: "CV"
+  href: "/assets/cv.pdf"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Projects"
+      subhref: "/research/projects/"
+    - subtitle: "Publications"
+      subhref: "/research/publications/"
+    - subtitle: "Talks"
+      subhref: "/research/talks/"
+
+- title: "Miscellaneous"
+  href: "/miscellaneous/"
+  subcategories:
+    - subtitle: "Study Material"
+      subhref: "/miscellaneous/study-material/"
+    - subtitle: "Research Supplements"
+      subhref: "/miscellaneous/research-supplements"
+    - subtitle: "Other"
+      subhref: "/miscellaneous/other/"
