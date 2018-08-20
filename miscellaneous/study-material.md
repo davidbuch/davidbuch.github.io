@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Miscellaneous - Study Material
 permalink: /miscellaneous/study-material/
