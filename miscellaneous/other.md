@@ -13,14 +13,22 @@ Books
 - - -
 <br><br>
 
-TED Talks
+Talks
 ===
 
 
-1. [Why you don't get what you want; it's not what you expect \| Jennice Vilhauer \| TEDxPeachtree](https://www.youtube.com/watch?v=FwLeiY5f7sI){:target="_blank"} - Act based on what you want, not based on what you expect.
-2.	[The Secret of Becoming Mentally Strong \| Amy Morin \| TEDxOcala](https://www.youtube.com/watch?v=TFbv757kup4){:target="_blank"} - Small habits that seem inconsequential can actually cost us. Similarly, good habits that seem inconsequential can actually get us through our worst times.
-3. [The Discipline of Finishing \| Conor Neill \| TEDxUniversidaddeNavarra](https://www.youtube.com/watch?v=zXCiv4sc5eY){:target="_blank"} - Integrity, energy and adaptive intelligence are good habits to cultivate. But, without integrity, the other two are useless.
+1. [The Statistical Crisis in Science and How to Move Forward by Professor Andrew Gelman](https://www.youtube.com/watch?v=KS3yPw91iC0&t=335){:target="_blank"} - The lecture starts at 5:35.
+2. [David Dunson - Machine learning for scientific inferences: Debunking the hype](https://www.youtube.com/watch?v=UYp2GGo2KKU){:target="_blank"}
+3. [Computational Challenges and the Future of ML](https://www.youtube.com/watch?v=uyZOcUDhIbY&index=22&list=PLgKuh-lKre12eXz4dnvc8oervo2_Af4iU){:target="_blank"}
 
+<br><br>
+- - -
+<br><br>
+
+Blogs
+===
+
+1. [Statistical Modeling, Causal Inference, and Social Science](andrewgelman.com){:target="_blank"}
 
 <br><br>
 - - -
