@@ -12,7 +12,7 @@ West Virginia University, Morgantown <br>
 <em>Curriculum Vitae: </em><a href="/assets/cv.pdf" target="_blank">PDF</a>  <small>(October, 2018)</small> <br>
 <em>Email: </em><a href="mailto:davidbuch@math.wvu.edu">dnbuch@math.wvu.edu</a> | <a href="mailto:davidbuch42@gmail.com">davidbuch42@gmail.com</a> <br>
 <em>Phone: </em>304-860-5895<br>
-<em>Office: </em>Armstrong Hall, 411A<br>
+<em>Office: </em>Armstrong Hall, 416<br>
 <em>ORCID: </em><a itemprop="sameAs" content="https://orcid.org/0000-0002-4574-0075" href="https://orcid.org/0000-0002-4574-0075" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-4574-0075</a><br>
 <hr width="600px">
 
