@@ -17,6 +17,9 @@
     - subtitle: "Talks"
       subhref: "/research/talks/"
 
+- title: "Solution Manuals"
+  href: "/solution_manuals/"
+
 - title: "Miscellaneous"
   href: "/miscellaneous/"
   subcategories:
