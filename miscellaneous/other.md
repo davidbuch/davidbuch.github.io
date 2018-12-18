@@ -6,7 +6,7 @@ permalink: /miscellaneous/other/
 Books
 ===
 
-1. [Neyman - From Life \| Constance Reid](https://www.amazon.com/Neyman-Life-Constance-Reid/dp/0387907475) - A fascinating biography of a statistical giant.
+1. [Neyman - From Life \| Constance Reid](https://www.amazon.com/Neyman-Life-Constance-Reid/dp/0387907475)
 
 
 <br><br>
@@ -37,4 +37,4 @@ Blogs
 Podcasts
 ===
 
-1. [Not So Standard Deviations](http://www.nssdeviations.com) - A fascinating discussion of current events and data science. Brought to you weekly by Roger Peng and Hilary Parker.
+1. [Not So Standard Deviations](http://www.nssdeviations.com) - A discussion of current events and data science. Brought to you semi-weekly by Roger Peng and Hilary Parker.
