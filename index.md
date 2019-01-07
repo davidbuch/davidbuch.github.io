@@ -9,7 +9,7 @@ layout: default
 M.S. Student, Applied Mathematics <br>
 West Virginia University, Morgantown <br>
 
-<em>Curriculum Vitae: </em><a href="/assets/cv.pdf" target="_blank">PDF</a>  <small>(December, 2018)</small> <br>
+<em>Curriculum Vitae: </em><a href="/assets/cv.pdf" target="_blank">PDF</a>  <small>(January, 2019)</small> <br>
 <em>Email: </em><a href="mailto:davidbuch@math.wvu.edu">dnbuch@math.wvu.edu</a> | <a href="mailto:davidbuch42@gmail.com">davidbuch42@gmail.com</a> <br>
 <em>Phone: </em>304-860-5895<br>
 <em>Office: </em>Armstrong Hall, 416<br>
