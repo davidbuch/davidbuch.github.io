@@ -24,37 +24,3 @@ West Virginia University, Morgantown <br>
 
 <p align="justify" style="max-width:600px">
 I'm a graduate research assistant in the WVU math department studying social network analysis as part of an NSF INCLUDES grant with Drs. <a href="https://math.wvu.edu/~mdarrah/" target="_blank">Marjorie Darrah</a> and <a href="https://members.educause.edu/roxann-a-humbert" target="_blank">Roxann Humbert</a>. The work is informed by my experience in graph-based learning with <a href="http://www.stat.wvu.edu/~mculp/" target="_blank">Dr. Mark Culp</a>. I completed my undergraduate thesis with <a href="https://math.wvu.edu/~zetienne/" target="_blank">Dr. Zachariah Etienne</a> optimizing and validating LIGO scientific software <a href=" https://doi.org/10.1088/1361-6382/aacb8c" target="_blank">[Knowles <em>et al</em>, 2018]</a>. I also spent a summer at Yale University for an NSF-REU where I conducted computational protein modeling research under <a href="https://jamming.research.yale.edu/" target="_blank">Dr. Corey O'Hern</a> <a href="https://jamming.research.yale.edu/files/papers/gzx011.pdf" target="_blank">[Gaines <em>et al</em>, 2017]</a>. I graduated <em>Summa Cum Laude</em> from WVU in May, 2018 with a B.S. in Math and Biophysics and a minor in Statistics. While there, I was highly active in the <a href="https://www.sierraclub.org/west-virginia" target="_blank">West Virginia Chapter of the Sierra Club</a>, serving on the Executive Committee from 2017-18. I was a member of the 50th Anneversiary class of <a href="https://www.ed.gov/news/press-releases/141-students-across-country-named-2014-us-presidential-scholars" target="_blank">U.S. Presidential Scholars</a>. In my spare time, I enjoy playing cello and staying in shape through a combination of running, swimming, weightlifting and tennis. On May 30, 2018 I adopted an Aussiedoodle, Bernoulli P. (aka "Bernie"), of whom I am particularly fond. You can find pictures on his <a href="https://www.instagram.com/bernoullitheaussiedoodle/" target="_blank">Instagram page</a>.
-<div style="display:none">
-<a href="" target="_blank"><img src="" alt="LINQS" style="width:275px;" align="right"></a>
-
-## Research Interests
-<p align="justify" style="max-width:600px">
-Find more about the work I've done on my  <a href="/research/" target="_blank">research page</a>.
-</p>
-<!-- <center> <em><a class="tosu"> Scroll down for news! </a></em></center> -->
-
-## News
-
-<table style="white-space: nowrap;">
-
-	<tr>
-	<td width="75"><b>Nov, 17'</b></td>
-	<td>TAing <a href="https://classes.soe.ucsc.edu/cmps140/Winter18/" target="_blank">CMPS 140</a> in Winter, 18</td>
-	</tr>
-
-	<tr>
-	<td width="75"><b>Jun, 17'</b></td>
-	<td>Interning at <a href="http://www.chobaniangroup.com/" target="_blank">Chobanian Group</a> during Summer, 2017</td>
-	</tr>
-
-	<tr>
-	<td width="75"><b>Feb, 17'</b></td>
-	<td>Attending <a href="https://www.aaai.org/Conferences/AAAI/aaai17.php" target="_blank">AAAI, 2017</a></td>
-	</tr>
-
-	<tr>
-	<td><b>Older</b></td>
-	<td><a href='news-archive' target="_blank">Archive</a></td>
-	</tr>
-</table>
-</div>
