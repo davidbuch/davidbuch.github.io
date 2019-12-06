@@ -4,9 +4,6 @@
 - title: "CV"
   href: "/assets/cv.pdf"
 
-- title: "Blog"
-  href: "/blog/"
-
 - title: "Research"
   href: "/research/"
   subcategories:
@@ -24,5 +21,3 @@
   subcategories:
     - subtitle: "Seminars"
       subhref: "/teaching/seminars/"
-    - subtitle: "Solution Manuals"
-      subhref: "/teaching/solution_manuals/"
